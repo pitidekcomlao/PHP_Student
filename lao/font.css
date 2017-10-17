@@ -1,0 +1,16 @@
+/*
+ * Lao Sans Pro (Lao) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Noto Serif Lao';
+  font-style: normal;
+  font-weight: 400;
+  src: url('NotoSerifLao-Regular.ttf')
+}
+
+@font-face {
+  font-family: 'Noto Serif Lao';
+  font-style: normal;
+  font-weight: 700;
+  src: url('NotoSerifLao-Bold.ttf')
+}
